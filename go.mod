@@ -8,6 +8,7 @@ go 1.15
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/btcsuite/btcutil v1.0.2
+	github.com/containerd/continuity v0.0.0-20210208174643-50096c924a4e // indirect
 	github.com/deckarep/golang-set v1.7.1
 	github.com/getsentry/raven-go v0.2.0
 	github.com/gin-contrib/cors v1.3.1
@@ -26,8 +27,8 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/swaggo/gin-swagger v1.3.0
 	github.com/swaggo/swag v1.7.0
-	github.com/trustwallet/golibs v0.1.2
-	github.com/trustwallet/golibs/network v0.0.0-20210124080535-8638b407c4ab
+	github.com/trustwallet/golibs v0.1.3
+	github.com/trustwallet/golibs/network v0.0.0-20210216073906-76482c61d92a
 	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777 // indirect
 	golang.org/x/sys v0.0.0-20210123231150-1d476976d117 // indirect
